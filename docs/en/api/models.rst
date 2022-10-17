@@ -55,6 +55,7 @@ Backbones
    Conformer
    ConvMixer
    ConvNeXt
+   DenseNet
    DistilledVisionTransformer
    EfficientNet
    HRNet
@@ -83,8 +84,11 @@ Backbones
    T2T_ViT
    TIMMBackbone
    TNT
+   VAN
    VGG
    VisionTransformer
+   EfficientFormer
+   HorNet
 
 .. _necks:
 
